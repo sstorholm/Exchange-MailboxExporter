@@ -1,8 +1,8 @@
 #################################################
 #                                              #
-#    Exchange Mailbox Export Script		        #
-#      Tested on Exchange 2016			          #
-#				                                    #
+#    Exchange Mailbox Export Script        #
+#      Tested on Exchange 2016	          #
+#	                                    #
 #    v.1.0 - Sebastian Storholm 13.05.2020	  #
 #				                                    #
 #################################################
