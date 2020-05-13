@@ -1,10 +1,10 @@
 #################################################
 #	                                              #
-#	     Exchange Mailbox Export Script		        #
-#	       Tested on Exchange 2016			          #
-#						                                    #
-#	     v.1.0 - Sebastian Storholm 13.05.2020	  #
-#						                                    #
+#     Exchange Mailbox Export Script		        #
+#       Tested on Exchange 2016			          #
+#					                                    #
+#     v.1.0 - Sebastian Storholm 13.05.2020	  #
+#					                                    #
 #################################################
 
 # Script exports the specified users mailbox as a PST to the specified path with the filename [alias]_YYYYMMDD.pst 
